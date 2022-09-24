@@ -149,16 +149,12 @@ int main()
 
 ## Output screen shots :
 
-![image](https://user-images.githubusercontent.com/94165327/192090362-2059fb59-1f4d-4a08-93c5-f90450de8343.png)
+![image](https://user-images.githubusercontent.com/94165327/192108056-5232b7ae-8b1b-43e9-98ac-9e148e5ffa8d.png)
 
 
-![image](https://user-images.githubusercontent.com/94165327/192090379-c511b594-b59e-4d88-a7c5-48c5db557fc7.png)
+![image](https://user-images.githubusercontent.com/94165327/192108086-6109d263-8b3b-4df7-b49a-c08546afafaa.png)
 
-
-![image](https://user-images.githubusercontent.com/94165327/192090462-6ad15fc8-647b-41f8-b7b6-ae92b86992f1.png)
-
-
-![image](https://user-images.githubusercontent.com/94165327/192090452-12c72677-08cc-46c6-a4b4-548204f43acc.png)
+![image](https://user-images.githubusercontent.com/94165327/192108128-ca76e5d2-44b4-4ea4-a68c-c0f379ca2535.png)
 
  
 ## Result :
